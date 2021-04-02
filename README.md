@@ -1,2 +1,2 @@
 # Web study
-##### HTML, CSS study
+##### HTML, CSS, jS study
