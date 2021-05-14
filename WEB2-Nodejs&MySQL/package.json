@@ -1,0 +1,18 @@
+{
+  "name": "web2-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sanitize-html": "^2.3.3"
+  }
+}
